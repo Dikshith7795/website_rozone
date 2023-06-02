@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dikshith7795/website_rozone.git/static/css/main.c24916b2.css",
+    "main.js": "/Dikshith7795/website_rozone.git/static/js/main.518766f3.js",
+    "static/js/787.4a3ca70c.chunk.js": "/Dikshith7795/website_rozone.git/static/js/787.4a3ca70c.chunk.js",
+    "static/media/logo.png": "/Dikshith7795/website_rozone.git/static/media/logo.72f2f101ed15f5d2a8d4.png",
+    "index.html": "/Dikshith7795/website_rozone.git/index.html",
+    "main.c24916b2.css.map": "/Dikshith7795/website_rozone.git/static/css/main.c24916b2.css.map",
+    "main.518766f3.js.map": "/Dikshith7795/website_rozone.git/static/js/main.518766f3.js.map",
+    "787.4a3ca70c.chunk.js.map": "/Dikshith7795/website_rozone.git/static/js/787.4a3ca70c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c24916b2.css",
+    "static/js/main.518766f3.js"
+  ]
+}
